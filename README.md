@@ -7,7 +7,7 @@ MUST HAVE "requests" and "os" as installed packages
 
 To Use:
   1. Create 2 files inside of a folder, 1 MUST BE NAMED "cookies.txt"
-  2. Put all of your cookies into "cookies.txt" and run the other file
-     2 files will be created in the folder 1 "Invalidcookies" and "Validcookies" the corresponding cookies will be written into the folder
+  2. Put all of your cookies into "cookies.txt" and run the other file.
+  3. 2 files will be created in the folder 1 "Invalidcookies" and "Validcookies" the corresponding cookies will be written into the folder
  
  For questions or concerns leave a reply on the post
